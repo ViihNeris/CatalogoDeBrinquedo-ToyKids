@@ -1,0 +1,152 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Poppins:wght@200&display=swap');
+@import "./reset.css";
+
+td {
+	vertical-align: top;
+}
+
+.typ-logo {
+	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	width: 11vw;
+	background-color: #fff;
+}
+
+span {
+	color: #ffd8a9;
+	text-transform: capitalize;
+	font-style: italic;
+}
+
+#home-img {
+	height: 50vh;
+	background-color: #91E0FF;
+	background-image: url("../images/kid-wallpaper.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-blend-mode: multiply;
+	margin-top: 14vh;
+}
+
+.initial-infos {
+	position: fixed;
+	left: 0;
+	top: 0;
+	min-width: 100vw;
+}
+
+.initial-infos {
+	height: 3.5vh;
+	background-color: skyblue;
+	color: midnightblue;
+	text-align: center;
+}
+
+main p {
+	font-size: 18px;
+	color: #fff;
+}
+
+main h1 {
+	color: #fff
+}
+
+#form-white table tr {
+	font-weight: 600;
+	color: #fff;
+}
+
+.navbar {
+	background-color: #fff;
+}
+
+.navbar-nav li a:hover {
+	transform: translateY(-3px);
+	transition: .4s;
+}
+
+.navbar-nav .na {
+	border-bottom: 3px solid rgba(0, 0, 0, 0);
+	transition: .4s;
+}
+
+.navbar-nav li:hover {
+	border-bottom: 3px solid rgb(221, 131, 32);
+	transition: .4s;
+}
+
+.actualNav {
+	border-bottom: 3px solid #91E0FF;
+}
+
+ul {
+	max-width: 35vw;
+	justify-content: space-around;
+}
+
+.container-fluid img {
+	max-width: 18%;
+}
+
+.initial-infos p {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	font-size: 12px;
+}
+
+select {
+	height: 4.8vh;
+	border: none;
+	width: 7vw;
+	text-align: center;
+}
+
+select,
+select option {
+	cursor: pointer;
+}
+
+.social-media:hover {
+	transform: translateY(-3px);
+	transition: .4s;
+}
+
+.social-media:hover {
+	border: none;
+}
+
+footer {
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #fff;
+	color: #1B6682;
+	justify-content: center;
+	text-align: center;
+}
+
+.linkFooter:link,
+.linkFooter:visited {
+	text-decoration: none;
+	color: #1B6682;
+}
+
+.linkFooter:hover {
+	text-decoration: underline;
+}
+
+.infos-object {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.infos {
+	height: 50vh;
+}
