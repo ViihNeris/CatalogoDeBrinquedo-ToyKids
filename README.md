@@ -110,6 +110,16 @@ Esta tela apresenta os desenvolvedores do projeto, com seus nomes, número de id
 
 <i>OBS: Esta tela pode ser acessada pelo footer presente em todas as telas ou pela guia <b>"Sobre"</b> na <b>NavBar</b>.</i>
 
+### Funcionamento do projeto 📽
+
+Caso queira obter uma visão mais demonstrativa do projeto, veja os vídeos abaixo! 🎬
+
+https://github.com/ViihNeris/CatalogoDeBrinquedo-ToyKids/assets/93789218/4469dd1c-82dd-4f69-a4e1-94de2f775b88
+
+https://github.com/ViihNeris/CatalogoDeBrinquedo-ToyKids/assets/93789218/fbe45327-0aa2-4f1e-af18-e5c81a1081eb
+
+[ToyKids_part3.webm](https://github.com/ViihNeris/CatalogoDeBrinquedo-ToyKids/assets/93789218/c2458098-863c-4fad-b136-c682ab908c2c)
+
 <br>
 
 ## Obrigada! ✅
